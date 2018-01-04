@@ -32,7 +32,6 @@ train_color = "b"
 test_color = "b"
 
 
-
 ### Your regression goes here!
 ### Please name it reg, so that the plotting code below picks it up and 
 ### plots it correctly. Don't forget to change the test_color above from "b" to
@@ -55,8 +54,6 @@ for feature, target in zip(feature_train, target_train):
 ### labels for the legend
 plt.scatter(feature_test[0], target_test[0], color=test_color, label="test")
 plt.scatter(feature_test[0], target_test[0], color=train_color, label="train")
-
-
 
 
 ### draw the regression line, once it's coded
