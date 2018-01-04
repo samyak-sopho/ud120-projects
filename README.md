@@ -1,4 +1,7 @@
 ud120-projects
 ==============
 
-Starter project code for students taking [Udacity ud120](https://in.udacity.com/course/intro-to-machine-learning--ud120)
+This repo consists of: 
+
+1. Mini-projects I completed for the Udacity's [Intro to Machine Learning](https://www.udacity.com/courses/ud120).  
+2. Final project analyzing Enron financial and email data for fraud.
